@@ -1,14 +1,14 @@
-# GBICi5-Scratch-1-RockBand
+# rock-band
 
-![GBICi5-Scratch-1-RockBand](banner.png)
+![rock-band](en/images/small_banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-RockBand](https://projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-RockBand)
+Find the project online at [projects.raspberrypi.org/en/projects/rock-band](https://projects.raspberrypi.org/en/projects/rock-band)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/GBICi5-Scratch-1-RockBand/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/GBICi5-Scratch-1-RockBand/tree/master/en/solutions).
+For resources and project materials, see [en/resources](https://github.com/raspberrypilearning/rock-band/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENCE.md](LICENCE.md)
+ See [LICENSE.md](LICENSE.md)
